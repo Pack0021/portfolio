@@ -54,7 +54,7 @@ main {
 }
 
 .mainpage {
-    background: green url(../images/Digital-Background.png) no-repeat center top;
+    background: green url("../images/Digital-Background.png") no-repeat center top;
     background-size: cover;
 
 }
