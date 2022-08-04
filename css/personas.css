@@ -151,32 +151,32 @@ footer p {
 }
 
 .grid-item:nth-child(1) {
-    background: url(../images/Dave.jpg) no-repeat center top;
+    background: url("../images/dave.jpg") no-repeat center top;
     background-size: cover;
 }
 
 .grid-item:nth-child(2) {
-    background: url(../images/David.png) no-repeat center top;
+    background: url("../images/david.png") no-repeat center top;
     background-size: cover;
 }
 
 .grid-item:nth-child(3) {
-    background: url(../images/Mark.png) no-repeat center top;
+    background: url("../images/mark.png") no-repeat center top;
     background-size: cover;
 }
 
 .grid-item:nth-child(4) {
-    background: url(../images/Patrick.png) no-repeat center top;
+    background: url("../images/patrick.png") no-repeat center top;
     background-size: cover;
 }
 
 .grid-item:nth-child(5) {
-    background: url(../images/Ted.png) no-repeat center top;
+    background: url("../images/ted.png") no-repeat center top;
     background-size: cover;
 }
 
 .grid-item:nth-child(6) {
-    background: url(../images/Micheal.jpg) no-repeat center top;
+    background: url("../images/micheal.jpg") no-repeat center top;
     background-size: cover;
 }
 
