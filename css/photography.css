@@ -150,35 +150,35 @@ footer p {
 }
 
 .grid-item:nth-child(1) {
-    background: url("../images/Coin1.JPG") no-repeat center top;
+    background: url("../images/coin1.jpg") no-repeat center top;
     background-size: cover;
     grid-column: 1/3;
     grid-row: 1/3;
 }
 
 .grid-item:nth-child(2) {
-    background: url("../images/Coin2.JPG") no-repeat center top;
+    background: url("../images/coin2.jpg") no-repeat center top;
     background-size: cover;
     grid-column: 3/5;
     grid-row: 1/3;
 }
 
 .grid-item:nth-child(3) {
-    background: url("../images/Tyler.jpg") no-repeat center top;
+    background: url("../images/tyler.jpg") no-repeat center top;
     background-size: cover;
     grid-column: 5/10;
     grid-row: 1/4;
 }
 
 .grid-item:nth-child(4) {
-    background: url("../images/Key.JPG") no-repeat center top;
+    background: url("../images/key.jpg") no-repeat center top;
     background-size: cover;
     grid-column: 1/3;
     grid-row: 3/5;
 }
 
 .grid-item:nth-child(5) {
-    background:url("../images/Coin3.JPG") no-repeat center top;
+    background:url("../images/coin3.jpg") no-repeat center top;
     background-size: cover;
     grid-column: 3/5;
     grid-row: 3/5;
@@ -199,7 +199,7 @@ footer p {
 }
 
 .grid-item:nth-child(8) {
-    background: url("../images/Mask.jpeg") no-repeat center top;
+    background: url("../images/mask.jpeg") no-repeat center top;
     background-size: cover;
     grid-column: 3/5;
     grid-row: 5/7;
@@ -207,7 +207,7 @@ footer p {
 }
 
 .grid-item:nth-child(9) {
-    background: url("../images/Ty.jpg") no-repeat center top;
+    background: url("../images/ty.jpg") no-repeat center top;
     background-size: cover;
     grid-column: 1/5;
     grid-row: 7/11;
