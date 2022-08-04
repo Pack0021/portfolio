@@ -185,7 +185,7 @@ footer p {
 }
 
 .grid-item:nth-child(6) {
-    background: url(../images/Neckless.png) no-repeat center top;
+    background: url("../images/neckless.png") no-repeat center top;
     background-size: cover;
     grid-column: 5/10;
     grid-row: 4/7;
