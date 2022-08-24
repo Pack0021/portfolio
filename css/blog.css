@@ -15,6 +15,7 @@ body {
     display: grid;
     grid-template-columns: 30% 70%;
     grid-template-rows: auto auto;
+    height: 100vh;
 }
 
 nav {
@@ -40,7 +41,7 @@ h3 {
 }
 
 
-main {
+.mainpage {
     text-align: center;
     grid-column: 2/3;
     grid-row: 1/3;
