@@ -273,7 +273,7 @@ a:link {
 
 /* -------- Moblie Layout ------- */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 750px) {
     body {
         grid-template-columns: 100%;
         grid-template-rows: auto 1500px auto;
